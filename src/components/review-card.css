@@ -1,7 +1,7 @@
 .review-card-container {
   width: 95%;
   margin-left: 2%;
-  height: 141px;
+  height: 91px;
   display: flex;
   position: relative;
   align-items: center;
@@ -12,6 +12,7 @@
   flex-direction: row;
   justify-content: flex-start;
   background-color: #ffffff;
+  margin-bottom: 5px;
 }
 .review-card-date-time {
   top: var(--dl-space-space-halfunit);
@@ -41,6 +42,7 @@
   align-self: flex-start;
   max-height: 70%;
   overflow-y: hidden;
+  font-family: "Open Sans";
 }
 .review-card-container1 {
   width: 35px;
@@ -52,27 +54,7 @@
   justify-content: center;
 }
 .review-card-image {
-  width: 28px;
-  height: 27px;
-  object-fit: cover;
-}
-.review-card-image1 {
-  width: 28px;
-  height: 27px;
-  object-fit: cover;
-}
-.review-card-image2 {
-  width: 28px;
-  height: 27px;
-  object-fit: cover;
-}
-.review-card-image3 {
-  width: 28px;
-  height: 27px;
-  object-fit: cover;
-}
-.review-card-image4 {
-  width: 28px;
-  height: 27px;
+  width: 24px;
+  height: 23px;
   object-fit: cover;
 }
