@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="559e254b-7b93-4460-9ec1-4a99819f4f1e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/ReviewFormDialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ReviewFormDialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/component1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/component1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/review-card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/review-card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/v-cards.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/v-cards.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/reviews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/vcard_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/not-found.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/not-found.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ckBHoaGv3iiGivwUtP2Jx4X5P2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/thevu/WebstormProjects/legacy_bites/src/views",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\thevu\WebstormProjects\legacy_bites\src\views" />
+      <recent name="C:\Users\thevu\WebstormProjects\legacy_bites\src\data" />
+      <recent name="C:\Users\thevu\WebstormProjects\legacy_bites\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thevu\WebstormProjects\legacy_bites\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="559e254b-7b93-4460-9ec1-4a99819f4f1e" name="Changes" comment="" />
+      <created>1708645610577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708645610577</updated>
+      <workItem from="1708645611655" duration="15835000" />
+      <workItem from="1709012261135" duration="5268000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
