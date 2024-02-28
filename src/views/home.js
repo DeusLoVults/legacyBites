@@ -22,9 +22,9 @@ const Home = (props) => {
   localStorage.setItem("already_reviewed", 0);
   const reviewData = require("../data/reviews.json");
   const [dialogOpen, setDialogOpen] = useState(false);
-  const [name, setName] = useState("");
-  const [message, setMessage] = useState("");
-  const [stars, setStars] = useState(0);
+  //const [name, setName] = useState("");
+  //const [message, setMessage] = useState("");
+  //const [stars, setStars] = useState(0);
 
   const handleOpenDialog = () => {
     setDialogOpen(true);
@@ -148,7 +148,6 @@ const Home = (props) => {
             </div>
           </div>
           <img
-            alt="image"
             src="https://png.pngtree.com/png-vector/20230912/ourmid/pngtree-man-in-mexico-national-costume-png-image_10026359.png"
             className="home-image"
           />
