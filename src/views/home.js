@@ -130,16 +130,6 @@ const Home = (props) => {
               </span>
             </span>
               <div className="home-cta-btn-container">
-                <button className="home-cta-btn Anchor button">
-                <span className="home-text04">
-                  <span
-      onClick={()=>{window.location.href="#products"}}
-                  >
-                    PRODUCTS
-                  </span>
-                  <br></br>
-                </span>
-                </button>
                 <button
                     className="home-cta-btn1 Anchor button"
                     onClick={()=>{window.location.href="#socials"}}
@@ -361,7 +351,7 @@ const Home = (props) => {
                 placeholder="E-mail"
                 className="home-textinput5 Section-Text input"
             />
-            <button className="home-button4 Anchor button">SEND</button>
+            <button className="home-button4 Anchor button" onClick={()=>{window.location.reload()}}>SEND</button>
           </div>
         </div>
         <div className="home-section-separator6"></div>
