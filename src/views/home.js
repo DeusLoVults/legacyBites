@@ -22,10 +22,11 @@ const Home = (props) => {
   localStorage.setItem("already_reviewed", 0);
   const reviewData = require("../data/reviews.json");
   const [dialogOpen, setDialogOpen] = useState(false);
-  //const [name, setName] = useState("");
-  //const [message, setMessage] = useState("");
-  //const [stars, setStars] = useState(0);
+  const [name, setName] = useState("");
+  const [message, setMessage] = useState("");
+  const [stars, setStars] = useState(0);
 
+  console.log(name, message, stars);
   const handleOpenDialog = () => {
     setDialogOpen(true);
   };
