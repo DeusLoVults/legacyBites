@@ -83,31 +83,11 @@ const Home = (props) => {
         </Helmet>
         <div data-role="Header" className="home-navbar-container">
           <div className="home-navbar">
-            <span className="home-heading1">LEGACY BITE</span>
+            <span className="home-heading1">LEGACYBITE</span>
             <div className="home-links-container">
-              <span className="home-link Navbar-Link">209-999-9999</span>
+              <span className="home-link Navbar-Link">(559) 331-6452</span>
             </div>
-            <div data-role="BurgerMenu" className="home-burger-menu">
-              <svg viewBox="0 0 1024 1024" className="home-icon">
-                <path d="M128 256h768v86h-768v-86zM128 554v-84h768v84h-768zM128 768v-86h768v86h-768z"></path>
-              </svg>
-            </div>
-            <div data-role="MobileMenu" className="home-mobile-menu">
-              <div className="home-container1">
-                <span className="Card-Heading home-heading2">Logo</span>
-                <div data-role="CloseMobileMenu" className="home-close-menu">
-                  <svg viewBox="0 0 1024 1024" className="home-icon02">
-                    <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
-                  </svg>
-                </div>
-              </div>
-              <div className="home-links-container1">
-                <span className="home-link1 Navbar-Link">About</span>
-                <span className="home-link2 Navbar-Link">Experience</span>
-                <span className="home-link3 Navbar-Link">Portofolio</span>
-                <span className="Navbar-Link">Contact</span>
-              </div>
-            </div>
+
           </div>
         </div>
         <div className="home-section-separator"></div>
@@ -115,11 +95,13 @@ const Home = (props) => {
         <div className="home-container2">
           <div className="home-hero">
             <div className="home-hero-text-container">
-              <h1 className="home-heading3">   MOHOMMAD SALAH</h1>
+              <h1 className="home-heading3">   Emmanuel Campos</h1>
               <span className="home-text Card-Text">
-                        Vending Machine Owner
+                        Tulare Native // Newly Aspiring Businessman
             </span>
+
               <span className="home-text01 Section-Text">
+                <br/>
               <span className="home-text02">c.</span>
               <span>
                 This is my vending machine store yad asdasd asdff asodi
@@ -140,7 +122,7 @@ const Home = (props) => {
             </div>
             <img
                 alt=""
-                src="https://png.pngtree.com/png-vector/20230912/ourmid/pngtree-man-in-mexico-national-costume-png-image_10026359.png"
+                src="https://media.discordapp.net/attachments/903199856955371541/1213658149442166865/IMG_3411-removebg-preview.png?ex=65f6463b&is=65e3d13b&hm=8c1d93650d3597eecdd2592ebda37af932ce09071d5883acce2a94ed40584f8f&=&format=webp&quality=lossless&width=451&height=247"
                 className="home-image"
             />
           </div>
