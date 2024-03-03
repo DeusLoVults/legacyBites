@@ -27,6 +27,7 @@
     rgb(189, 195, 199) 0%,
     rgb(43, 59, 66) 100%
   );
+  overflow-y: auto;
 }
 .v-cards-image {
   width: 244px;
@@ -38,6 +39,8 @@
   align-items: flex-start;
   flex-direction: column;
   justify-content: flex-start;
+  white-space: pre-line;
+  word-wrap: break-word;
 }
 .v-cards-text {
   color: #fffdfd;
@@ -47,10 +50,15 @@
   margin-bottom: var(--dl-space-space-unit);
   text-transform: capitalize;
   text-decoration: underline;
+  white-space: pre-line;
+  word-wrap: break-word;
 }
+
 .v-cards-text1 {
   color: rgb(245, 243, 243);
   padding-left: var(--dl-space-space-halfunit);
+  white-space: pre-line;
+  word-wrap: break-word;
 }
 
 @media (max-width: 767px) {
