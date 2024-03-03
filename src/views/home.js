@@ -83,7 +83,7 @@ const Home = (props) => {
         </Helmet>
         <div data-role="Header" className="home-navbar-container">
           <div className="home-navbar">
-            <span className="home-heading1">LEGACYBITE</span>
+            <span className="home-heading1">LEGACYBITES</span>
             <div className="home-links-container">
               <span className="home-link Navbar-Link">(559) 331-6452</span>
             </div>
@@ -102,13 +102,9 @@ const Home = (props) => {
 
               <span className="home-text01 Section-Text">
                 <br/>
-              <span className="home-text02">c.</span>
+
               <span>
-                This is my vending machine store yad asdasd asdff asodi
-                fhjpasdoi yfup9asd yhfpas9dyh fp9asdo8yhf p9asoidyh fp9asd8yhf
-                p9asd8y fp9as8dy f9pasdyf p9as8dy hfp9asdo8yhf p9as8dyfp9sad8
-                yfp9as8d yhf9p8asdyhf 9pas8dyhfp98asdyfs ayu9fasd9p8yfasd9p8yf
-                sad9 fs9adp8y fspa98dfy
+
               </span>
             </span>
               <div className="home-cta-btn-container">
