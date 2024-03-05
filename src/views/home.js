@@ -217,7 +217,7 @@ const Home = (props) => {
                 <span className="Card-Text">
                 Once the payment is processed, the vending machine will dispense
                 your selected item. Be sure to collect your item from the
-                dispensing slot.
+                dispensing slot. The machine also takes all virtual payments.
               </span>
               </div>
             </div>
@@ -232,10 +232,7 @@ const Home = (props) => {
               </div>
               <div className="home-answer-container">
               <span className="home-answer Card-Text">
-                Enjoy Your Purchase:
-              </span>
-                <span className="Card-Text">
-                Enjoy your snack or beverage from our vending machines!
+              They are restocked every other week.
               </span>
               </div>
             </div>
